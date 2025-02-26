@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lta.freeholyquran.prayertimes.qibla",
+    "sha256_cert_fingerprints":
+    ["06:CE:B4:F8:36:F0:4F:0B:D1:5F:CC:70:89:9D:D4:3C:7E:2F:48:87:BA:D5:31:1D:7D:96:26:D4:6B:BC:65:AB"]
+  }
+}]
