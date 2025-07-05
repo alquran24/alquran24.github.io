@@ -1,1 +1,1 @@
-navigate to https://AlQuranApp.github.io/ to see changes in index.html
+navigate to https://alquran.github.io/ to see changes in index.html
